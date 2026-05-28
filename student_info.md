@@ -1,0 +1,4 @@
+- **Họ và Tên:** Nguyễn Tuấn Minh
+- **Email:** ngtuanminh238@gmail.com
+- **GitHub Username:** MinnhMin
+- **Discord Username:** MinhNg
